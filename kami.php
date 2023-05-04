@@ -34,7 +34,8 @@
 
 //echo "<h1>" . "Nama Saya " . $_POST['nama'] . "," . "dan umur saya " . $_POST['umur'];  
 
-
+var aku;
+    aku = "Saya fawwaz"
 
 
 
